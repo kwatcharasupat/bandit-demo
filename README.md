@@ -18,7 +18,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10086/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10086/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10086/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10086/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10086/effects.wav" autoplay/></audio></td>
@@ -28,7 +28,7 @@
       <td>Shared</td>
       <td>Music 64</td>
       <td>L1SNR</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10086/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10086/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-mus64-l1snr/10086/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-mus64-l1snr/10086/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-mus64-l1snr/10086/effects.wav" autoplay/></audio></td>
@@ -38,7 +38,7 @@
       <td>Shared</td>
       <td>Vocals V7</td>
       <td>L1SNR</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10086/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10086/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l1snr/10086/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l1snr/10086/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l1snr/10086/effects.wav" autoplay/></audio></td>
@@ -48,7 +48,7 @@
       <td>Shared</td>
       <td>Vocals V7</td>
       <td>L2SNR</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10086/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10086/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l2snr/10086/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l2snr/10086/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l2snr/10086/effects.wav" autoplay/></audio></td>
@@ -58,7 +58,7 @@
       <td>Separate</td>
       <td>Vocals V7</td>
       <td>L1</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10086/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10086/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-bsrnn-lstm12-vox7-l1/10086/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-bsrnn-lstm12-vox7-l1/10086/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-bsrnn-lstm12-vox7-l1/10086/effects.wav" autoplay/></audio></td>
@@ -68,7 +68,7 @@
       <td></td>
       <td></td>
       <td>Time L1</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10086/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10086/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-demucs/10086/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-demucs/10086/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-demucs/10086/effects.wav" autoplay/></audio></td>
@@ -78,7 +78,7 @@
       <td></td>
       <td></td>
       <td>TF Mag MSE</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10086/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10086/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-umxhq/10086/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-umxhq/10086/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-umxhq/10086/effects.wav" autoplay/></audio></td>
@@ -104,7 +104,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/1022/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/1022/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/1022/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/1022/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/1022/effects.wav" autoplay/></audio></td>
@@ -114,7 +114,7 @@
       <td>Shared</td>
       <td>Music 64</td>
       <td>L1SNR</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/1022/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/1022/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-mus64-l1snr/1022/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-mus64-l1snr/1022/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-mus64-l1snr/1022/effects.wav" autoplay/></audio></td>
@@ -124,7 +124,7 @@
       <td>Shared</td>
       <td>Vocals V7</td>
       <td>L1SNR</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/1022/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/1022/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l1snr/1022/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l1snr/1022/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l1snr/1022/effects.wav" autoplay/></audio></td>
@@ -134,7 +134,7 @@
       <td>Shared</td>
       <td>Vocals V7</td>
       <td>L2SNR</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/1022/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/1022/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l2snr/1022/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l2snr/1022/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l2snr/1022/effects.wav" autoplay/></audio></td>
@@ -144,7 +144,7 @@
       <td>Separate</td>
       <td>Vocals V7</td>
       <td>L1</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/1022/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/1022/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-bsrnn-lstm12-vox7-l1/1022/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-bsrnn-lstm12-vox7-l1/1022/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-bsrnn-lstm12-vox7-l1/1022/effects.wav" autoplay/></audio></td>
@@ -154,7 +154,7 @@
       <td></td>
       <td></td>
       <td>Time L1</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/1022/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/1022/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-demucs/1022/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-demucs/1022/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-demucs/1022/effects.wav" autoplay/></audio></td>
@@ -164,7 +164,7 @@
       <td></td>
       <td></td>
       <td>TF Mag MSE</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/1022/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/1022/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-umxhq/1022/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-umxhq/1022/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-umxhq/1022/effects.wav" autoplay/></audio></td>
@@ -190,7 +190,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10540/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10540/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10540/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10540/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10540/effects.wav" autoplay/></audio></td>
@@ -200,7 +200,7 @@
       <td>Shared</td>
       <td>Music 64</td>
       <td>L1SNR</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10540/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10540/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-mus64-l1snr/10540/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-mus64-l1snr/10540/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-mus64-l1snr/10540/effects.wav" autoplay/></audio></td>
@@ -210,7 +210,7 @@
       <td>Shared</td>
       <td>Vocals V7</td>
       <td>L1SNR</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10540/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10540/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l1snr/10540/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l1snr/10540/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l1snr/10540/effects.wav" autoplay/></audio></td>
@@ -220,7 +220,7 @@
       <td>Shared</td>
       <td>Vocals V7</td>
       <td>L2SNR</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10540/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10540/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l2snr/10540/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l2snr/10540/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l2snr/10540/effects.wav" autoplay/></audio></td>
@@ -230,7 +230,7 @@
       <td>Separate</td>
       <td>Vocals V7</td>
       <td>L1</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10540/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10540/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-bsrnn-lstm12-vox7-l1/10540/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-bsrnn-lstm12-vox7-l1/10540/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-bsrnn-lstm12-vox7-l1/10540/effects.wav" autoplay/></audio></td>
@@ -240,7 +240,7 @@
       <td></td>
       <td></td>
       <td>Time L1</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10540/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10540/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-demucs/10540/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-demucs/10540/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-demucs/10540/effects.wav" autoplay/></audio></td>
@@ -250,7 +250,7 @@
       <td></td>
       <td></td>
       <td>TF Mag MSE</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10540/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10540/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-umxhq/10540/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-umxhq/10540/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-umxhq/10540/effects.wav" autoplay/></audio></td>
@@ -276,7 +276,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10568/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10568/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10568/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10568/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10568/effects.wav" autoplay/></audio></td>
@@ -286,7 +286,7 @@
       <td>Shared</td>
       <td>Music 64</td>
       <td>L1SNR</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10568/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10568/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-mus64-l1snr/10568/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-mus64-l1snr/10568/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-mus64-l1snr/10568/effects.wav" autoplay/></audio></td>
@@ -296,7 +296,7 @@
       <td>Shared</td>
       <td>Vocals V7</td>
       <td>L1SNR</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10568/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10568/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l1snr/10568/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l1snr/10568/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l1snr/10568/effects.wav" autoplay/></audio></td>
@@ -306,7 +306,7 @@
       <td>Shared</td>
       <td>Vocals V7</td>
       <td>L2SNR</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10568/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10568/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l2snr/10568/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l2snr/10568/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l2snr/10568/effects.wav" autoplay/></audio></td>
@@ -316,7 +316,7 @@
       <td>Separate</td>
       <td>Vocals V7</td>
       <td>L1</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10568/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10568/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-bsrnn-lstm12-vox7-l1/10568/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-bsrnn-lstm12-vox7-l1/10568/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-bsrnn-lstm12-vox7-l1/10568/effects.wav" autoplay/></audio></td>
@@ -326,7 +326,7 @@
       <td></td>
       <td></td>
       <td>Time L1</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10568/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10568/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-demucs/10568/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-demucs/10568/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-demucs/10568/effects.wav" autoplay/></audio></td>
@@ -336,7 +336,7 @@
       <td></td>
       <td></td>
       <td>TF Mag MSE</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10568/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10568/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-umxhq/10568/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-umxhq/10568/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-umxhq/10568/effects.wav" autoplay/></audio></td>
@@ -362,7 +362,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10706/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10706/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10706/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10706/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10706/effects.wav" autoplay/></audio></td>
@@ -372,7 +372,7 @@
       <td>Shared</td>
       <td>Music 64</td>
       <td>L1SNR</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10706/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10706/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-mus64-l1snr/10706/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-mus64-l1snr/10706/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-mus64-l1snr/10706/effects.wav" autoplay/></audio></td>
@@ -382,7 +382,7 @@
       <td>Shared</td>
       <td>Vocals V7</td>
       <td>L1SNR</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10706/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10706/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l1snr/10706/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l1snr/10706/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l1snr/10706/effects.wav" autoplay/></audio></td>
@@ -392,7 +392,7 @@
       <td>Shared</td>
       <td>Vocals V7</td>
       <td>L2SNR</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10706/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10706/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l2snr/10706/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l2snr/10706/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l2snr/10706/effects.wav" autoplay/></audio></td>
@@ -402,7 +402,7 @@
       <td>Separate</td>
       <td>Vocals V7</td>
       <td>L1</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10706/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10706/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-bsrnn-lstm12-vox7-l1/10706/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-bsrnn-lstm12-vox7-l1/10706/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-bsrnn-lstm12-vox7-l1/10706/effects.wav" autoplay/></audio></td>
@@ -412,7 +412,7 @@
       <td></td>
       <td></td>
       <td>Time L1</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10706/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10706/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-demucs/10706/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-demucs/10706/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-demucs/10706/effects.wav" autoplay/></audio></td>
@@ -422,7 +422,7 @@
       <td></td>
       <td></td>
       <td>TF Mag MSE</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10706/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10706/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-umxhq/10706/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-umxhq/10706/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-umxhq/10706/effects.wav" autoplay/></audio></td>
@@ -448,7 +448,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10848/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10848/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10848/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10848/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10848/effects.wav" autoplay/></audio></td>
@@ -458,7 +458,7 @@
       <td>Shared</td>
       <td>Music 64</td>
       <td>L1SNR</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10848/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10848/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-mus64-l1snr/10848/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-mus64-l1snr/10848/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-mus64-l1snr/10848/effects.wav" autoplay/></audio></td>
@@ -468,7 +468,7 @@
       <td>Shared</td>
       <td>Vocals V7</td>
       <td>L1SNR</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10848/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10848/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l1snr/10848/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l1snr/10848/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l1snr/10848/effects.wav" autoplay/></audio></td>
@@ -478,7 +478,7 @@
       <td>Shared</td>
       <td>Vocals V7</td>
       <td>L2SNR</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10848/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10848/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l2snr/10848/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l2snr/10848/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l2snr/10848/effects.wav" autoplay/></audio></td>
@@ -488,7 +488,7 @@
       <td>Separate</td>
       <td>Vocals V7</td>
       <td>L1</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10848/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10848/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-bsrnn-lstm12-vox7-l1/10848/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-bsrnn-lstm12-vox7-l1/10848/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-bsrnn-lstm12-vox7-l1/10848/effects.wav" autoplay/></audio></td>
@@ -498,7 +498,7 @@
       <td></td>
       <td></td>
       <td>Time L1</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10848/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10848/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-demucs/10848/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-demucs/10848/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-demucs/10848/effects.wav" autoplay/></audio></td>
@@ -508,7 +508,7 @@
       <td></td>
       <td></td>
       <td>TF Mag MSE</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10848/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/10848/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-umxhq/10848/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-umxhq/10848/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-umxhq/10848/effects.wav" autoplay/></audio></td>
@@ -534,7 +534,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11037/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11037/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11037/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11037/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11037/effects.wav" autoplay/></audio></td>
@@ -544,7 +544,7 @@
       <td>Shared</td>
       <td>Music 64</td>
       <td>L1SNR</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11037/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11037/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-mus64-l1snr/11037/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-mus64-l1snr/11037/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-mus64-l1snr/11037/effects.wav" autoplay/></audio></td>
@@ -554,7 +554,7 @@
       <td>Shared</td>
       <td>Vocals V7</td>
       <td>L1SNR</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11037/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11037/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l1snr/11037/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l1snr/11037/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l1snr/11037/effects.wav" autoplay/></audio></td>
@@ -564,7 +564,7 @@
       <td>Shared</td>
       <td>Vocals V7</td>
       <td>L2SNR</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11037/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11037/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l2snr/11037/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l2snr/11037/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l2snr/11037/effects.wav" autoplay/></audio></td>
@@ -574,7 +574,7 @@
       <td>Separate</td>
       <td>Vocals V7</td>
       <td>L1</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11037/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11037/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-bsrnn-lstm12-vox7-l1/11037/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-bsrnn-lstm12-vox7-l1/11037/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-bsrnn-lstm12-vox7-l1/11037/effects.wav" autoplay/></audio></td>
@@ -584,7 +584,7 @@
       <td></td>
       <td></td>
       <td>Time L1</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11037/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11037/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-demucs/11037/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-demucs/11037/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-demucs/11037/effects.wav" autoplay/></audio></td>
@@ -594,7 +594,7 @@
       <td></td>
       <td></td>
       <td>TF Mag MSE</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11037/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11037/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-umxhq/11037/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-umxhq/11037/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-umxhq/11037/effects.wav" autoplay/></audio></td>
@@ -620,7 +620,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11040/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11040/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11040/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11040/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11040/effects.wav" autoplay/></audio></td>
@@ -630,7 +630,7 @@
       <td>Shared</td>
       <td>Music 64</td>
       <td>L1SNR</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11040/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11040/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-mus64-l1snr/11040/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-mus64-l1snr/11040/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-mus64-l1snr/11040/effects.wav" autoplay/></audio></td>
@@ -640,7 +640,7 @@
       <td>Shared</td>
       <td>Vocals V7</td>
       <td>L1SNR</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11040/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11040/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l1snr/11040/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l1snr/11040/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l1snr/11040/effects.wav" autoplay/></audio></td>
@@ -650,7 +650,7 @@
       <td>Shared</td>
       <td>Vocals V7</td>
       <td>L2SNR</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11040/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11040/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l2snr/11040/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l2snr/11040/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l2snr/11040/effects.wav" autoplay/></audio></td>
@@ -660,7 +660,7 @@
       <td>Separate</td>
       <td>Vocals V7</td>
       <td>L1</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11040/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11040/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-bsrnn-lstm12-vox7-l1/11040/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-bsrnn-lstm12-vox7-l1/11040/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-bsrnn-lstm12-vox7-l1/11040/effects.wav" autoplay/></audio></td>
@@ -670,7 +670,7 @@
       <td></td>
       <td></td>
       <td>Time L1</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11040/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11040/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-demucs/11040/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-demucs/11040/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-demucs/11040/effects.wav" autoplay/></audio></td>
@@ -680,7 +680,7 @@
       <td></td>
       <td></td>
       <td>TF Mag MSE</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11040/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11040/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-umxhq/11040/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-umxhq/11040/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-umxhq/11040/effects.wav" autoplay/></audio></td>
@@ -706,7 +706,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11376/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11376/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11376/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11376/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11376/effects.wav" autoplay/></audio></td>
@@ -716,7 +716,7 @@
       <td>Shared</td>
       <td>Music 64</td>
       <td>L1SNR</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11376/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11376/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-mus64-l1snr/11376/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-mus64-l1snr/11376/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-mus64-l1snr/11376/effects.wav" autoplay/></audio></td>
@@ -726,7 +726,7 @@
       <td>Shared</td>
       <td>Vocals V7</td>
       <td>L1SNR</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11376/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11376/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l1snr/11376/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l1snr/11376/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l1snr/11376/effects.wav" autoplay/></audio></td>
@@ -736,7 +736,7 @@
       <td>Shared</td>
       <td>Vocals V7</td>
       <td>L2SNR</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11376/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11376/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l2snr/11376/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l2snr/11376/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l2snr/11376/effects.wav" autoplay/></audio></td>
@@ -746,7 +746,7 @@
       <td>Separate</td>
       <td>Vocals V7</td>
       <td>L1</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11376/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11376/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-bsrnn-lstm12-vox7-l1/11376/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-bsrnn-lstm12-vox7-l1/11376/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-bsrnn-lstm12-vox7-l1/11376/effects.wav" autoplay/></audio></td>
@@ -756,7 +756,7 @@
       <td></td>
       <td></td>
       <td>Time L1</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11376/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11376/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-demucs/11376/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-demucs/11376/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-demucs/11376/effects.wav" autoplay/></audio></td>
@@ -766,7 +766,7 @@
       <td></td>
       <td></td>
       <td>TF Mag MSE</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11376/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11376/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-umxhq/11376/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-umxhq/11376/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-umxhq/11376/effects.wav" autoplay/></audio></td>
@@ -792,7 +792,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11490/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11490/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11490/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11490/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11490/effects.wav" autoplay/></audio></td>
@@ -802,7 +802,7 @@
       <td>Shared</td>
       <td>Music 64</td>
       <td>L1SNR</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11490/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11490/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-mus64-l1snr/11490/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-mus64-l1snr/11490/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-mus64-l1snr/11490/effects.wav" autoplay/></audio></td>
@@ -812,7 +812,7 @@
       <td>Shared</td>
       <td>Vocals V7</td>
       <td>L1SNR</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11490/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11490/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l1snr/11490/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l1snr/11490/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l1snr/11490/effects.wav" autoplay/></audio></td>
@@ -822,7 +822,7 @@
       <td>Shared</td>
       <td>Vocals V7</td>
       <td>L2SNR</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11490/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11490/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l2snr/11490/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l2snr/11490/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-3s-vox7-l2snr/11490/effects.wav" autoplay/></audio></td>
@@ -832,7 +832,7 @@
       <td>Separate</td>
       <td>Vocals V7</td>
       <td>L1</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11490/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11490/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-bsrnn-lstm12-vox7-l1/11490/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-bsrnn-lstm12-vox7-l1/11490/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-bsrnn-lstm12-vox7-l1/11490/effects.wav" autoplay/></audio></td>
@@ -842,7 +842,7 @@
       <td></td>
       <td></td>
       <td>Time L1</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11490/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11490/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-demucs/11490/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-demucs/11490/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-demucs/11490/effects.wav" autoplay/></audio></td>
@@ -852,7 +852,7 @@
       <td></td>
       <td></td>
       <td>TF Mag MSE</td>
-      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11490/mix.wav" autoplay/></audio></td>
+      <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/gt/11490/mixture.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-umxhq/11490/speech.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-umxhq/11490/music.wav" autoplay/></audio></td>
       <td><audio controls="controls"><source src="https://karnwatcharasupat.github.io/bandit-demo/dnr-umxhq/11490/effects.wav" autoplay/></audio></td>
