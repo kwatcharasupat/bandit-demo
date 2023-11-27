@@ -1,15 +1,15 @@
 # bandit-demo
-<table>
+<table class="dataframe" id="table-159">
   <thead>
-    <tr style="text-align: right;">
-      <th>Model</th>
+    <tr style="text-align: center;">
+      <th>Name</th>
       <th>Encoder</th>
       <th>Band</th>
       <th>Loss</th>
-      <th>mixture</th>
-      <th>speech</th>
-      <th>music</th>
-      <th>effects</th>
+      <th>Mixture</th>
+      <th>Speech</th>
+      <th>Music</th>
+      <th>Effects</th>
     </tr>
   </thead>
   <tbody>
